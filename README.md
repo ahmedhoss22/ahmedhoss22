@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Ahmed Hossam</h1>
-<h3 align="center">Full Stack Developer (React js/ node js) at Growxcel / Freelancer</h3>
+<h3 align="center">DevOps Engineer / Full Stack Developer (React js/ node js) at Growxcel</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedhoss22" alt="ahmedhoss22" /></a> </p>
 <img align="right"  width="400" alt="coding" src="https://i.giphy.com/ko7twHhomhk8E.webp"/>
